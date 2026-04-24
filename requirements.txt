@@ -1,0 +1,29 @@
+# Core
+torch
+torchvision
+torchaudio
+
+# YOLOv5 / Ultralytics
+ultralytics
+
+# Computer Vision
+opencv-python
+
+# Text to Speech
+pyttsx3
+
+# Utilities
+numpy
+Pillow
+PyYAML
+requests
+scipy
+matplotlib
+seaborn
+pandas
+tqdm
+psutil
+
+# ONNX (optional but used in detect.py --dnn flag)
+onnx
+onnxruntime
